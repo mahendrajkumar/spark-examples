@@ -1,0 +1,14 @@
+*target*
+*.jar
+*.war
+*.class
+# eclipse specific git ignore
+.project
+.metadata
+*.tmp
+.classpath
+.settings
+.*~
+RemoteSystemsTempFiles
+
+

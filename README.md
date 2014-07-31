@@ -6,4 +6,4 @@ Spark examples using Java8 lambda expressions:
 Java8WordCount  
 Java8TextSearch  
 Java8StreamingWordCount  
-
+Java8PageRank
